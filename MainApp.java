@@ -10,3 +10,4 @@ public class MainApp {
       obj.getMessage();
    }
 }
+hi
